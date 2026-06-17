@@ -1,4 +1,6 @@
-# Paradigm Switch Dashboard README
+# A Model for Paradigm Switch Dashboard README
+
+## Please do not take it seriously, my friend. This is just a toy mathematical model that GPT and I came up with during a bout of late-night insomnia, haha.
 
 ## 1. What this script does
 
