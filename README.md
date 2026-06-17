@@ -1,6 +1,6 @@
 # A Model for Paradigm Switch Dashboard README
 
-## Please do not take this seriously, my friend. This is just a toy mathematical model that GPT and I came up with during a bout of late-night insomnia, haha.
+## Please do not take this seriously, my friend. This is just a toy mathematical model that GPT and I came up with during a bout of late-night insomnia, haha. Enjoy!🍻
 
 ## 1. What this script does
 
